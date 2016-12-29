@@ -1,0 +1,24 @@
+{
+  "name": "foodpins",
+  "version": "1.0.0",
+  "description": "Welcome to this quick start guide to setting up a development environment using Vagrant.",
+  "main": "index.js",
+  "dependencies": {
+    "node-pinterest": "0.0.3",
+    "pin-it-node": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openbook/foodpins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openbook/foodpins/issues"
+  },
+  "homepage": "https://github.com/openbook/foodpins#readme"
+}
